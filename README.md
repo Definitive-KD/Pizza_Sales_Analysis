@@ -12,6 +12,7 @@ This dashboard empowers pizzeria managers to understand their pizza sales and id
 By leveraging these insights, pizzeria managers can make data-driven decisions to:
 -	Boost Sales: Promote popular pizzas and develop targeted marketing campaigns.
 -	Reduce Costs: Optimize inventory and identify areas to streamline operations.
+
 This dashboard is a valuable tool for any pizzeria manager looking to gain a deeper understanding of their business and make data-driven decisions for success.
 
 
