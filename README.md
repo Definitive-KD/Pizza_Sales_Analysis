@@ -9,6 +9,8 @@
 This dashboard empowers pizzeria managers to understand their pizza sales and identify areas for improvement.
 -	Customer Preferences: Analyze which pizzas are most popular and least popular, allowing you to tailor your menu to better suit customer tastes.
 -	Sales Performance: Track sales trends over time to identify peak hours, days, or weeks. This helps with inventory management and staffing decisions.
+
+  
 By leveraging these insights, pizzeria managers can make data-driven decisions to:
 -	Boost Sales: Promote popular pizzas and develop targeted marketing campaigns.
 -	Reduce Costs: Optimize inventory and identify areas to streamline operations.
